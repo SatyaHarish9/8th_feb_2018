@@ -1,0 +1,6 @@
+total 4
+-rw-r--r-- 1 root root 56 Feb  9 02:42 a.txt
+-rw-r--r-- 1 root root  0 Feb  9 02:12 b.txt
+-rw-r--r-- 1 root root  0 Feb  9 02:13 c.txt
+-rw-r--r-- 1 root root  0 Feb  9 11:35 d.txt
+-rw-r--r-- 1 root root  0 Feb  9 02:43 sample.txt
